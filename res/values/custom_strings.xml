@@ -111,4 +111,8 @@
     <string name="system_theme_style_light">Light style</string>
     <string name="system_theme_style_dark">Dark style</string>
     <string name="theme_confirmation">Theme Applied!</string>
+
+    <!-- Scramble PIN layout when unlocking -->
+    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
+    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
 </resources>
