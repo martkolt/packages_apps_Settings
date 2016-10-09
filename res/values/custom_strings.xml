@@ -101,4 +101,8 @@
     <!-- OTA -->
     <string name="nosupdate_settings_title">Updates</string>
     <string name="nosupdate_settings_summary">Find new updates</string>
+
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
 </resources>
