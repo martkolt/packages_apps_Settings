@@ -683,10 +683,10 @@ public class ManageApplications extends InstrumentedPreferenceFragment
         }
         mOptionsMenu.findItem(R.id.advanced).setVisible(false);
 
-        mOptionsMenu.findItem(R.id.sort_order_alpha).setVisible( 
+        mOptionsMenu.findItem(R.id.sort_order_alpha).setVisible(
                 (mListType == LIST_TYPE_STORAGE || mListType == LIST_TYPE_MAIN)
                 && mSortOrder != R.id.sort_order_alpha);
-        mOptionsMenu.findItem(R.id.sort_order_size).setVisible( 
+        mOptionsMenu.findItem(R.id.sort_order_size).setVisible(
                 (mListType == LIST_TYPE_STORAGE || mListType == LIST_TYPE_MAIN)
                 && mSortOrder != R.id.sort_order_size);
 
@@ -1358,11 +1358,7 @@ public class ManageApplications extends InstrumentedPreferenceFragment
                 return true;
             }
 
-            if (mManageApplications.mListType != LIST_TYPE_HIGH_POWER) {
-                return true;
-            }
-            ApplicationsState.AppEntry entry = mEntries.get(position);
-            return !PowerWhitelistBackend.getInstance().isSysWhitelisted(entry.info.packageName);
+            return true;
         }
 
         public View getView(int position, View convertView, ViewGroup parent) {
