@@ -183,6 +183,9 @@ public class Settings extends SettingsActivity {
     public static class WebViewAppPickerActivity extends SettingsActivity { /* empty */ }
     public static class LegacySupportActivity extends SettingsActivity{ /* empty */ }
 
+    // OmniGears
+    public static class StyleSettingsActivity extends SettingsActivity { /* empty */ }
+
     // Top level categories for new IA
     public static class NetworkDashboardActivity extends SettingsActivity {}
     public static class ConnectedDeviceDashboardActivity extends SettingsActivity {}
@@ -190,5 +193,5 @@ public class Settings extends SettingsActivity {
     public static class StorageDashboardActivity extends SettingsActivity {}
     public static class UserAndAccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
-
+    public static class OmniDashboardActivity extends SettingsActivity {}
 }
