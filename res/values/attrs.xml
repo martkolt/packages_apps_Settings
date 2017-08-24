@@ -149,7 +149,7 @@
     </declare-styleable>
 
     <declare-styleable name="TintablePreference">
-        <attr name="android:tint" format="color|reference" />
+        <attr name="preferenceTint" format="color|reference"/>
     </declare-styleable>
 
     <!-- For UsageView -->
