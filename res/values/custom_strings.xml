@@ -21,9 +21,10 @@
     <string name="twilight_mode_location_dialog">Location disabled</string>
     <string name="twilight_mode_location_disabled">Location access is disabled</string>
     <string name="twilight_mode_location_enable">Enable</string>
-    <string name="interface_style_title">Style</string>
+    <string name="style_settings_title">Style</string>
     <string name="header_category_omni">OmniGears</string>
     <string name="omni_dashboard_summary">Omnify your device</string>
     <string name="style_settings_summary">Wallpapers and other swag</string>
     <string name="omni_device_parts">Device features</string>
+    <string name="bars_settings_title">Bars</string>
 </resources>
