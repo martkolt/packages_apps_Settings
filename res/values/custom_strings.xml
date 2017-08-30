@@ -27,4 +27,5 @@
     <string name="style_settings_summary">Wallpapers and other swag</string>
     <string name="omni_device_parts">Device features</string>
     <string name="bars_settings_title">Bars</string>
+    <string name="button_settings_title">Buttons</string>
 </resources>
