@@ -97,4 +97,8 @@
     <!-- About phone screen, build date -->
     <string name="build_date">Build date</string>
     <string name="build_date_default">2015-01-01-0000</string>
+
+    <!-- OTA -->
+    <string name="nosupdate_settings_title">Updates</string>
+    <string name="nosupdate_settings_summary">Find new updates</string>
 </resources>
