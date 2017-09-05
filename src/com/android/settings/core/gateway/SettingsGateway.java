@@ -136,6 +136,7 @@ import org.omnirom.omnigears.OmniDashboardFragment;
 import org.omnirom.omnigears.ButtonSettings;
 import org.omnirom.omnigears.interfacesettings.BarsSettings;
 import org.omnirom.omnigears.interfacesettings.StyleSettings;
+import org.omnirom.omnigears.moresettings.MoreSettings;
 
 public class SettingsGateway {
 
@@ -263,6 +264,7 @@ public class SettingsGateway {
             StyleSettings.class.getName(),
             BarsSettings.class.getName(),
             ButtonSettings.class.getName(),
+            MoreSettings.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
