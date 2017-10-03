@@ -42,4 +42,7 @@
     <string name="app_notifications_info_desc">Tap on one of above channels to configure their light colors and other options</string>
     <string name="value_equals_default">Auto</string>
     <string name="show_light_on_zen_title">Blink during Do Not Disturb</string>
+
+    <string name="battery_image">Battery image</string>
+    <string name="battery_image_description">Show battery image in status bar</string>
 </resources>
