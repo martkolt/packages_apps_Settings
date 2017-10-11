@@ -20,10 +20,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="more_settings_title">更多...</string>
-  <string name="interface_bars_title">状态栏</string>
-  <string name="omnigears_category_title">Omni 配置</string>
+  <string name="bars_settings_title">状态栏</string>
+  <string name="header_category_omni">Omni 配置</string>
   <string name="omni_dashboard_summary">自定义你的设备</string>
   <string name="omni_device_parts">设备特性</string>
-  <string name="button_settings">按钮</string>
-  <string name="interface_style_title">风格</string>
+  <string name="button_settings_title">按钮</string>
+  <string name="style_settings_title">风格</string>
 </resources>
