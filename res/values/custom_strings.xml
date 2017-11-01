@@ -45,4 +45,7 @@
 
     <string name="battery_image">Battery image</string>
     <string name="battery_image_description">Show battery image in status bar</string>
+
+    <!-- Pixel color on sim card -->
+    <string name="default_sim_color">Pixel</string>
 </resources>
