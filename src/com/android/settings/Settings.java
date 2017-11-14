@@ -184,7 +184,6 @@ public class Settings extends SettingsActivity {
     public static class LegacySupportActivity extends SettingsActivity{ /* empty */ }
 
     // OmniGears
-    public static class StyleSettingsActivity extends SettingsActivity { /* empty */ }
     public static class DevicePartsActivity extends SettingsActivity { /* empty */ }
 
     // Top level categories for new IA
