@@ -26,4 +26,8 @@
   <string name="omni_device_parts">设备特性</string>
   <string name="button_settings_title">按钮</string>
   <string name="style_settings_title">风格</string>
+
+  <!-- Advanced reboot options -->
+  <string name="advanced_reboot_title">高级重启</string>
+  <string name="advanced_reboot_summary">解锁情况下，在电源菜单加入选项以重启至恢复模式、引导模式或执行软重启。</string>
 </resources>
