@@ -117,7 +117,7 @@
         <SwitchPreference
           android:key="charging_sounds"
           android:title="@string/charging_sounds_title" />
-		  
+	  
         <!-- Vibrate on plug -->
         <SwitchPreference
           android:key="vibration_on_plug"
