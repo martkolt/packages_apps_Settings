@@ -59,6 +59,7 @@
             android:title="@string/app_notification_override_dnd_title"
             android:summary="@string/app_notification_override_dnd_summary"
             settings:useAdditionalSummary="true" />
+    </PreferenceCategory>
 
     <PreferenceCategory
         android:key="light_customization"
