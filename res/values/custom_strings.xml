@@ -55,6 +55,9 @@
     <string name="alert_on_charged_level_90">"90%"</string>
     <string name="alert_on_charged_level_99">"99%"</string>
 
+    <!-- Vibrate on plug -->
+    <string name="vibrate_on_plug_title">Vibrate on plug</string>
+
     <!-- Pixel color on sim card -->
     <string name="default_sim_color">Pixel</string>
 
