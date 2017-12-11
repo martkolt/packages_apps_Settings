@@ -92,6 +92,8 @@ import com.android.settings.wifi.WifiSettings;
 import java.util.Collection;
 import java.util.HashMap;
 
+import org.omnirom.omnigears.OmniDashboardFragment;
+
 public final class SearchIndexableResources {
 
     /**
@@ -218,6 +220,9 @@ public final class SearchIndexableResources {
                 AutomaticStorageManagerSettings.class,
                 NO_DATA_RES_ID,
                 R.drawable.ic_settings_storage);
+
+        // omni additions start
+        addIndex(OmniDashboardFragment.class, NO_DATA_RES_ID, R.drawable.omnirom_logo);
     }
 
     private SearchIndexableResources() {
