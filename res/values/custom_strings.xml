@@ -29,6 +29,7 @@
     <string name="bars_settings_title">Bars and lock screen</string>
     <string name="button_settings_title">Buttons</string>
     <string name="more_settings_title">More</string>
+    <string name="global_actions_title">Power menu</string>
     <string name="display_rotation_title">Rotation</string>
     <string name="display_rotation_summary">Configure possible rotation angles</string>
     <string name="battery_light_settings_title">Battery LED settings</string>

@@ -137,6 +137,7 @@ import org.omnirom.omnigears.ButtonSettings;
 import org.omnirom.omnigears.DisplayRotation;
 import org.omnirom.omnigears.batterylight.BatteryLightSettings;
 import org.omnirom.omnigears.interfacesettings.BarsSettings;
+import org.omnirom.omnigears.interfacesettings.GlobalActionsSettings;
 import org.omnirom.omnigears.moresettings.MoreSettings;
 
 public class SettingsGateway {
@@ -262,6 +263,7 @@ public class SettingsGateway {
             DataUsageList.class.getName(),
             // omni additions start
             OmniDashboardFragment.class.getName(),
+            GlobalActionsSettings.class.getName(),
             BarsSettings.class.getName(),
             ButtonSettings.class.getName(),
             MoreSettings.class.getName(),
