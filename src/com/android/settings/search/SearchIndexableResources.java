@@ -93,11 +93,9 @@ import java.util.HashMap;
 
 import org.omnirom.omnigears.OmniDashboardFragment;
 import org.omnirom.omnigears.ButtonSettings;
-import org.omnirom.omnigears.ButtonBrightnessSettings;
 import org.omnirom.omnigears.DisplayRotation;
 import org.omnirom.omnigears.batterylight.BatteryLightSettings;
 import org.omnirom.omnigears.interfacesettings.BarsSettings;
-import org.omnirom.omnigears.interfacesettings.StyleSettings;
 import org.omnirom.omnigears.interfacesettings.GlobalActionsSettings;
 import org.omnirom.omnigears.moresettings.MoreSettings;
 
@@ -228,11 +226,9 @@ public final class SearchIndexableResources {
                 R.drawable.ic_settings_storage);
 
         // omni additions start
-        addIndex(StyleSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_style);
         addIndex(GlobalActionsSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_buttons);
         addIndex(BarsSettings.class, NO_DATA_RES_ID, R.drawable.ic_bars_tile);
         addIndex(ButtonSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_buttons);
-        addIndex(ButtonBrightnessSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_buttons);
         addIndex(MoreSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_more);
         addIndex(DisplayRotation.class, NO_DATA_RES_ID, R.drawable.ic_display_rotation_tile);
         addIndex(BatteryLightSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_leds);
