@@ -16,4 +16,6 @@
 
 <resources>
 	<color name="omni_logo_color">#a1c729</color>
+	<!-- Suggestion/condition colors -->
+	<color name="suggestion_tile_background">@*android:color/white</color>
 </resources>
