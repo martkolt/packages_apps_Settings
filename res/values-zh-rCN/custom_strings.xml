@@ -30,4 +30,10 @@
   <!-- Advanced reboot options -->
   <string name="advanced_reboot_title">高级重启</string>
   <string name="advanced_reboot_summary">解锁情况下，在电源菜单加入选项以重启至恢复模式、引导模式或执行软重启。</string>
+
+    <string name="system_theme_style_title">系统主题风格</string>
+    <string name="system_theme_style_auto">根据壁纸变化</string>
+    <string name="system_theme_style_light">亮色</string>
+    <string name="system_theme_style_dark">暗色</string>
+    <string name="theme_confirmation">主题已应用</string>
 </resources>
