@@ -65,4 +65,5 @@
     <string name="system_theme_style_auto">Wallpaper based</string>
     <string name="system_theme_style_light">Light style</string>
     <string name="system_theme_style_dark">Dark style</string>
+    <string name="theme_confirmation">Theme Applied!</string>
 </resources>
