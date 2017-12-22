@@ -73,4 +73,9 @@
   <string name="ramp_up_time_twenty">20秒</string>
   <string name="ramp_up_time_thirty">30秒</string>
   <string name="ramp_up_time_sixty">60秒</string>
+  <string name="system_theme_style_title">系统主题风格</string>
+  <string name="system_theme_style_auto">根据壁纸变化</string>
+  <string name="system_theme_style_light">亮色</string>
+  <string name="system_theme_style_dark">暗色</string>
+  <string name="theme_confirmation">主题已应用</string>
 </resources>
