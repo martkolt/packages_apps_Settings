@@ -97,7 +97,6 @@ import org.omnirom.omnigears.DisplayRotation;
 import org.omnirom.omnigears.batterylight.BatteryLightSettings;
 import org.omnirom.omnigears.interfacesettings.BarsSettings;
 import org.omnirom.omnigears.interfacesettings.GlobalActionsSettings;
-import org.omnirom.omnigears.interfacesettings.StyleSettings;
 import org.omnirom.omnigears.moresettings.MoreSettings;
 
 public final class SearchIndexableResources {
@@ -228,7 +227,6 @@ public final class SearchIndexableResources {
 
         // omni additions start
         addIndex(GlobalActionsSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_buttons);
-        addIndex(StyleSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_style);
         addIndex(BarsSettings.class, NO_DATA_RES_ID, R.drawable.ic_bars_tile);
         addIndex(ButtonSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_buttons);
         addIndex(MoreSettings.class, NO_DATA_RES_ID, R.drawable.ic_settings_more);
