@@ -47,17 +47,6 @@
     <string name="battery_image">Battery image</string>
     <string name="battery_image_description">Show battery image in status bar</string>
 
-    <!-- Charging Alerts -->
-    <string name="alert_on_charged_level_title">Charging alert</string>
-    <string name="alert_on_charged_level_summary">Send an alert, when the desired charging level is reached</string>
-    <string name="alert_on_charged_level_dis">Disabled</string>
-    <string name="alert_on_charged_level_80">"80%"</string>
-    <string name="alert_on_charged_level_90">"90%"</string>
-    <string name="alert_on_charged_level_99">"99%"</string>
-
-    <!-- Vibrate on plug -->
-    <string name="vibrate_on_plug_title">Vibrate on plug</string>
-
     <!-- Pixel color on sim card -->
     <string name="default_sim_color">Pixel</string>
 
