@@ -125,6 +125,6 @@
     <string name="sub_deactivate_failed">Deactivation failed.</string>
 
     <!-- OTA -->
-    <string name="nosupdate_settings_title">Updates</string>
+    <string name="nosupdate_settings_title">System Updates</string>
     <string name="nosupdate_settings_summary">Find new updates</string>
 </resources>

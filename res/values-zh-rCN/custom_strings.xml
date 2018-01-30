@@ -46,6 +46,6 @@
   <string name="build_date_default">2015-01-01-0000</string>
 
   <!-- OTA -->
-  <string name="nosupdate_settings_title">更新</string>
+  <string name="nosupdate_settings_title">系统更新</string>
   <string name="nosupdate_settings_summary">查找新的更新</string>
 </resources>
