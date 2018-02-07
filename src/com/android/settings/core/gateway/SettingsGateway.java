@@ -284,6 +284,7 @@ public class SettingsGateway {
             Settings.SecuritySettingsActivity.class.getName(),
             Settings.AccessibilitySettingsActivity.class.getName(),
             Settings.SystemDashboardActivity.class.getName(),
+            Settings.OmniDashboardActivity.class.getName(),
             SupportDashboardActivity.class.getName(),
             // Home page > Network & Internet
             Settings.WifiSettingsActivity.class.getName(),
@@ -307,6 +308,13 @@ public class SettingsGateway {
             Settings.DateTimeSettingsActivity.class.getName(),
             Settings.DeviceInfoSettingsActivity.class.getName(),
             Settings.EnterprisePrivacySettingsActivity.class.getName(),
-            Settings.OmniDashboardActivity.class.getName(),
+            // Home page > OmniGears
+            Settings.DevicePartsActivity.class.getName(),
+            Settings.BarsSettingsActivity.class.getName(),
+            Settings.ButtonSettingsActivity.class.getName(),
+            Settings.MoreSettingsActivity.class.getName(),
+            Settings.DisplayRotationActivity.class.getName(),
+            Settings.GlobalActionsSettingsActivity.class.getName(),
+            Settings.BatteryLightSettingsActivity.class.getName(),
     };
 }
