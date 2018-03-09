@@ -138,6 +138,7 @@ import org.omnirom.omnigears.DisplayRotation;
 import org.omnirom.omnigears.batterylight.BatteryLightSettings;
 import org.omnirom.omnigears.interfacesettings.BarsSettings;
 import org.omnirom.omnigears.interfacesettings.GlobalActionsSettings;
+import org.omnirom.omnigears.interfacesettings.NetworkTraffic;
 import org.omnirom.omnigears.moresettings.MoreSettings;
 
 public class SettingsGateway {
@@ -269,6 +270,7 @@ public class SettingsGateway {
             MoreSettings.class.getName(),
             DisplayRotation.class.getName(),
             BatteryLightSettings.class.getName(),
+            NetworkTraffic.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -316,5 +318,6 @@ public class SettingsGateway {
             Settings.DisplayRotationActivity.class.getName(),
             Settings.GlobalActionsSettingsActivity.class.getName(),
             Settings.BatteryLightSettingsActivity.class.getName(),
+            Settings.NetworkTrafficSettingsActivity.class.getName()
     };
 }
