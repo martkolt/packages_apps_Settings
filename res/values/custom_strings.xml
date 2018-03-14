@@ -105,4 +105,9 @@
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
     <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+
+    <string name="system_theme_style_title">System theme style</string>
+    <string name="system_theme_style_auto">Wallpaper based</string>
+    <string name="system_theme_style_light">Light style</string>
+    <string name="system_theme_style_dark">Dark style</string>
 </resources>
