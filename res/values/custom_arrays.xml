@@ -60,21 +60,6 @@
         <item>2</item>
     </string-array>
 
-    <!-- Charging Alerts -->
-    <string-array name="alert_on_charged_entries">
-        <item>@string/alert_on_charged_level_dis</item>
-        <item>@string/alert_on_charged_level_80</item>
-        <item>@string/alert_on_charged_level_90</item>
-        <item>@string/alert_on_charged_level_99</item>
-    </string-array>
-
-    <string-array name="alert_on_charged_level_values" translatable="false">
-        <item>-1</item>
-        <item>80</item>
-        <item>90</item>
-        <item>99</item>
-    </string-array>
-
     <string-array name="increasing_ring_ramp_up_entries" translatable="false">
         <item>@string/ramp_up_time_five</item>
         <item>@string/ramp_up_time_ten</item>
@@ -132,17 +117,5 @@
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
-    </string-array>
-
-    <string-array name="system_theme_style_entries" translatable="false">
-        <item>@string/system_theme_style_auto</item>
-        <item>@string/system_theme_style_light</item>
-        <item>@string/system_theme_style_dark</item>
-    </string-array>
-
-    <string-array name="system_theme_style_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
