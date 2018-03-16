@@ -37,7 +37,7 @@ public class OTAPreferenceController extends AbstractPreferenceController
 
     @Override
     public boolean isAvailable() {
-        return DevelopmentSettings.isPackageInstalled(mContext, "com.nitrogen.ota");
+        return DevelopmentSettings.isPackageInstalled(mContext, "com.fusionjack.slimota");
     }
 
     @Override
