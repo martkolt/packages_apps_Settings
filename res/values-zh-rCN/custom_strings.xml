@@ -85,4 +85,10 @@
   <!-- OTA -->
   <string name="nosupdate_settings_title">系统更新</string>
   <string name="nosupdate_settings_summary">查找新的更新</string>
+
+  <plurals name="show_dev_countdown_cm">
+    <item quantity="other">还需 <xliff:g id="step_count">%1$d</xliff:g> 步就可以启用开发者选项。</item>
+  </plurals>
+  <string name="show_dev_on_cm">您已经启用了开发者选项！</string>
+  <string name="show_dev_already_cm">不用了，您已启用开发者选项。</string>
 </resources>
