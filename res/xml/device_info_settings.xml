@@ -26,12 +26,12 @@
         </Preference>
 
         <!-- OTA -->
-         <Preference android:key="nos_updates"
-             android:title="@string/nosupdate_settings_title"
-             android:summary="@string/nosupdate_settings_summary">
+         <Preference android:key="lineage_updates"
+             android:title="@string/lineage_updates_title"
+             android:summary="@string/lineage_updates_summary">
              <intent android:action="android.intent.action.MAIN"
-                 android:targetPackage="com.fusionjack.slimota"
-                 android:targetClass="com.fusionjack.slimota.MainActivity" />
+                 android:targetPackage="org.lineageos.updater"
+                 android:targetClass="org.lineageos.updater.UpdatesActivity" />
          </Preference>
 
         <!-- Device status - launches activity -->

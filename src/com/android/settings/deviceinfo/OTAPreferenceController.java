@@ -27,7 +27,7 @@ import com.android.settingslib.core.AbstractPreferenceController;
 public class OTAPreferenceController extends AbstractPreferenceController
                 implements PreferenceControllerMixin {
 
-    private static final String KEY_NOS_UPDATES = "nos_updates";
+    private static final String KEY_LINEAGE_UPDATES = "lineage_updates";
     Context mContext;
 
     public OTAPreferenceController(Context context) {
@@ -37,11 +37,11 @@ public class OTAPreferenceController extends AbstractPreferenceController
 
     @Override
     public boolean isAvailable() {
-        return DevelopmentSettings.isPackageInstalled(mContext, "com.fusionjack.slimota");
+        return DevelopmentSettings.isPackageInstalled(mContext, "org.lineageos.updater");
     }
 
     @Override
     public String getPreferenceKey() {
-        return KEY_NOS_UPDATES;
+        return KEY_LINEAGE_UPDATES;
     }
 }

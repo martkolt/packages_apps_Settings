@@ -99,8 +99,8 @@
     <string name="build_date_default">2015-01-01-0000</string>
 
     <!-- OTA -->
-    <string name="nosupdate_settings_title">System Updates</string>
-    <string name="nosupdate_settings_summary">Find new updates</string>
+    <string name="lineage_updates_title">System Updates</string>
+    <string name="lineage_updates_summary">Find new updates</string>
 
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
