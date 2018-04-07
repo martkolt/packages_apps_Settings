@@ -133,8 +133,8 @@
   <string name="build_date_default">2015-01-01-0000</string>
 
   <!-- OTA -->
-  <string name="nosupdate_settings_title">系统更新</string>
-  <string name="nosupdate_settings_summary">查找新的更新</string>
+  <string name="lineage_updates_title">系统更新</string>
+  <string name="lineage_updates_summary">查找新的更新</string>
 
   <plurals name="show_dev_countdown_cm">
     <item quantity="other">还需 <xliff:g id="step_count">%1$d</xliff:g> 步就可以启用开发者选项。</item>
