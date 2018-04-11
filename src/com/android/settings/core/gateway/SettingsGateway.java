@@ -141,6 +141,7 @@ import org.omnirom.omnigears.interfacesettings.GlobalActionsSettings;
 import org.omnirom.omnigears.interfacesettings.NetworkTraffic;
 import org.omnirom.omnigears.moresettings.MoreSettings;
 import org.omnirom.omnigears.moresettings.OmniJawsSettings;
+import org.omnirom.omnigears.interfacesettings.LockscreenSettings;
 
 public class SettingsGateway {
 
@@ -272,7 +273,8 @@ public class SettingsGateway {
             DisplayRotation.class.getName(),
             BatteryLightSettings.class.getName(),
             NetworkTraffic.class.getName(),
-            OmniJawsSettings.class.getName()
+            OmniJawsSettings.class.getName(),
+            LockscreenSettings.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -321,6 +323,7 @@ public class SettingsGateway {
             Settings.GlobalActionsSettingsActivity.class.getName(),
             Settings.BatteryLightSettingsActivity.class.getName(),
             Settings.NetworkTrafficSettingsActivity.class.getName(),
-            Settings.OmniJawsSettingsActivity.class.getName()
+            Settings.OmniJawsSettingsActivity.class.getName(),
+            Settings.LockscreenSettingsActivity.class.getName()
     };
 }
