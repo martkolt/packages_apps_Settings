@@ -100,6 +100,7 @@ import org.omnirom.omnigears.interfacesettings.GlobalActionsSettings;
 import org.omnirom.omnigears.interfacesettings.NetworkTraffic;
 import org.omnirom.omnigears.moresettings.MoreSettings;
 import org.omnirom.omnigears.interfacesettings.LockscreenSettings;
+import org.omnirom.omnigears.interfacesettings.LockscreenItemSettings;
 
 public final class SearchIndexableResources {
 
@@ -237,6 +238,7 @@ public final class SearchIndexableResources {
         addIndex(OmniDashboardFragment.class, NO_DATA_RES_ID, R.drawable.omnirom_logo);
         addIndex(NetworkTraffic.class, NO_DATA_RES_ID, R.drawable.ic_bars_tile);
         addIndex(LockscreenSettings.class, NO_DATA_RES_ID, R.drawable.ic_lockscreen_tile);
+        addIndex(LockscreenItemSettings.class, NO_DATA_RES_ID, R.drawable.ic_lockscreen_tile);
     }
 
     private SearchIndexableResources() {
