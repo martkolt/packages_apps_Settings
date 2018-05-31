@@ -201,7 +201,6 @@ public class Settings extends SettingsActivity {
     public static class DisplayRotationActivity extends SettingsActivity { /* empty */ }
     public static class BatteryLightSettingsActivity extends SettingsActivity { /* empty */ }
     public static class NetworkTrafficSettingsActivity extends SettingsActivity { /* empty */ }
-    public static class OmniJawsSettingsActivity extends SettingsActivity { /* empty */ }
     public static class LockscreenSettingsActivity extends SettingsActivity { /* empty */ }
     public static class LockscreenItemSettingsActivity extends SettingsActivity { /* empty */ }
 }
